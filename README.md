@@ -1,2 +1,1 @@
-# React Starter Boilerplate
-
+# https://static-website-0.netlify.app/
