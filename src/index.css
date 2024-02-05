@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0; /* Reset default margin */
+  padding: 0; /* Reset default padding */
+  background-color: #000300; /* Set the background color for the entire body */
+}
+
+#root {
+  height: 100vh; /* Ensure the root element takes the full height of the viewport */
+}
